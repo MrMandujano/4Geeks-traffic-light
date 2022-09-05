@@ -1,0 +1,47 @@
+.stick{
+    margin:auto;
+    text-align: center;
+    width:15px;
+    height:300px;
+    background:black;
+}
+.lights{
+    padding:10px;
+    margin:auto;
+    background: black;
+    width:125px;
+    height:300px;
+    border-radius:10px;
+}
+.red-light{
+    margin:auto;
+    border-radius: 100%;
+    background:red;
+    width:90px;
+    height: 90px;
+}
+.yellow-light{
+    margin:auto;
+    border-radius: 100%;
+    background:yellow;
+    width:90px;
+    height: 90px;
+}
+.green-light{
+    margin:auto;
+    border-radius: 100%;
+    background:green;
+    width:90px;
+    height: 90px;
+}
+/* 
+
+    You can write your own styles here...
+    
+    
+    ...Or you can use the import command to include 
+    other sylesheets into your bunde as well, e.j:
+    
+    import 'relative/path/to/stylesheet.scss';
+
+*/
